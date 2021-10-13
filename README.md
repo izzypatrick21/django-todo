@@ -1,2 +1,2 @@
 # django-todo
-basic todo app with django. Testing CRUD
+basic todo app with django. Testing CRUD functionality
